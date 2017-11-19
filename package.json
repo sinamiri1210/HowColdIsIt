@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "telegram-bot-api": "^1.2.0"
+    "telegram-bot-api": "^1.2.0",
+    "weather-js": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {
